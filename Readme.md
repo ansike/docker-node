@@ -19,6 +19,8 @@ node index.js
 ```shell
 bash build.sh
 ```
+> 我将该镜像上传到了https://hub.docker.com
+> 该镜像可以直接下载使用 ansike/ansike:test-docker-node-v1
 
 ### 镜像运行
 
